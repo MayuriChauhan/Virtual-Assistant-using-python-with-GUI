@@ -1,2 +1,4 @@
 # Virtual-Assistant-using-python-with-GUI
 This virtual assistant project is built using python language, it is a computer assistant that listens to particular vocal commands and returns relevant information or performs specified actions as desired by the user. And its GUI is constructed using QT Designer which provides WYSIWIG user interface and IDE I've used is Pycharm.
+
+To run this project run main.py , plutoMP.ui is GUI file constructed using QT designer and its python file is plutoMP.py , other .py files are the resource files created by PyQt5 compiler automatically. Any changes done in .ui file should be present in its .py not following which can lead to error (refer internet to convert .ui to .py). While giving command it is neccessary to mention keywords from the code which are used to recognise work to be done.
